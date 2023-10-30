@@ -1,3 +1,6 @@
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/israelcruzz/israelcruzz/blob/main/Purple%20Halloween%20Twitter%20Header.png" />
+&nbsp;&nbsp;&nbsp;
+
 <p>Front-End/Games Developer, seeking to learn more and more</p>&nbsp;
 
 <div   style="margin-bottom:100px">
