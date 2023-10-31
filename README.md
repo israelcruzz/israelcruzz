@@ -1,14 +1,6 @@
 
-<p>Front-End/Games Developer, seeking to learn more and more</p>&nbsp;
-
-<div   style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=israelcruzz&theme=catppuccin_mocha&mode=weekly" />
- </div>
+<p>Front-End/Games Developer, seeking to learn more and more</p>
  
- &nbsp;
- &nbsp;
-
-
 
 ## My Skills
 
