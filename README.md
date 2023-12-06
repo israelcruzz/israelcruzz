@@ -1,5 +1,5 @@
 
-<p>Front-End/Games Developer, seeking to learn more and more.</p>
+<p>Front-End/Games Developer, seeking to learn more and more</p>
  
 
 ## My Skills
