@@ -1,5 +1,7 @@
 
-<p>Hello, my name is Israel, I have been a big fan of technology since I was a child, and I have always wanted to develop my own things, from games, characters and applications, I am now focusing on the fullstack web and will soon migrate to mobile!</p>
+<p>Hello, my name is Israel and welcome to my github!
+
+I am an enthusiast and student of various technologies, I am currently studying to be a fullstack developer.</p>
  
 
 ## My Skills
