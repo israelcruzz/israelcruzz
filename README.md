@@ -22,7 +22,8 @@ I am an enthusiast and student of various technologies, I am currently studying 
 
 #### Mobile Stack:
 
-![React Native](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
+)&nbsp;
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)&nbsp;
 
 #### Studying in this moment:
