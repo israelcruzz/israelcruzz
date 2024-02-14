@@ -1,5 +1,5 @@
 
-<p>Hello, my name is Israel and welcome to my github. -
+<p>Hello, my name is Israel and welcome to my github. 
 
 I am an enthusiast and student of various technologies, I am currently studying to be a fullstack web developer.</p>
 
