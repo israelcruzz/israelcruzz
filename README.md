@@ -60,7 +60,6 @@ I am an enthusiast and student of various technologies, I am currently studying 
 <a href = "mailto:israelcruz.contato@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/israel-cruz-77a23b25b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 
-[![GitHub-Profile-3D-Contrib](https://github.com/isaac545454/isaac545454/actions/workflows/profile-3d.yml/badge.svg)](https://github.com/isaac545454/isaac545454/actions/workflows/profile-3d.yml)
 
  
 
