@@ -1,4 +1,4 @@
-```java
+```ts
 import Dev from 'Israel-Cruz';
 
 class AboutMe extends Dev {
