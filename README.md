@@ -7,9 +7,9 @@ class AboutMe extends Dev {
 }
 
 class Skills extends Dev {
-  languages = ['Typescript', 'Javascript', 'Java', 'C#'];
-  frameworks = ['Nest.js', 'Express.js', 'Fastify.js', 'React.js', 'Next.js', 'React Native', 'Spring', 'dotnet'];
-  clouds = ['AWS', 'Azure'];
+  languages = ['Typescript', 'Javascript', 'C#'];
+  frameworks = ['Nest.js', 'Express.js', 'Fastify.js', 'React.js', 'Next.js', 'React Native', 'Angular', '.Net'];
+  clouds = ['AWS', 'Azure', 'Cloudflare'];
 }
 ```
 
