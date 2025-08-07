@@ -2,7 +2,7 @@
 
 > Fullstack Developer at @Letalk
 
-🔭 My interest in programming began in 2015, when I was 11 years old. Driven by the desire to create games and small websites, I learned the basics of HTML and CSS. Determined to pursue a career in this field, I chose to attend high school at ETEC (São Paulo Technical School), where I specialized in Internet Computing. This course provided me with a solid foundation and boosted my self-taught learning, allowing me to develop my own software. Currently, I am consolidating my professional career as a full-stack web developer at Letalk and studying Systems Analysis and Development;
+🔭 My interest in programming began in 2015, when I was 11 years old. Driven by the desire to create games and small websites, I learned the basics of HTML and CSS. Determined to pursue a career in this field, I chose to attend high school at ETEC (São Paulo Technical School), where I specialized in Internet Computing. This course provided me with a solid foundation and boosted my self-taught learning, allowing me to develop my own software. Currently, I am consolidating my professional career as a full-stack web developer at Letalk and studying Systems Analysis and Development
 
 ```ts
 const importantLinks: ImportantLinks = {
